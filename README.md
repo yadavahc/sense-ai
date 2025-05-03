@@ -1,3 +1,5 @@
+Sense-AI is a cutting-edge, AI-powered web platform built using Next.js and Gemini AI, designed to empower users with tools for career development and insights. From resume and cover letter generation to personalized interview preparation and industry insights based on your skills, Sense-AI serves as your intelligent career assistant.
+
 
 DATABASE_URL=
 

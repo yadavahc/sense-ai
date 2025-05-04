@@ -87,7 +87,7 @@ export default function LandingPage() {
           <div className="text-center max-w-3xl mx-auto mb-12">
             <h2 className="text-3xl font-bold mb-4">How It Works</h2>
             <p className="text-muted-foreground">
-              Four simple steps to accelerate your career growth
+              Four simple steps to accelerate your career growth 
             </p>
           </div>
 
@@ -107,9 +107,6 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
-
-      
-
       {/* FAQ Section */}
       <section className="w-full py-12 md:py-24">
         <div className="container mx-auto px-4 md:px-6">
@@ -136,7 +133,6 @@ export default function LandingPage() {
           </div>
         </div>
       </section>
-
       {/* CTA Section */}
       <section className="w-full">
         <div className="mx-auto py-24 gradient rounded-lg">

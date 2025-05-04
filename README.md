@@ -12,7 +12,7 @@ npm install
 4. Setup environment variables
 
 Create a .env.local file and add the necessary credentials:
-# Clerk Authentication (Public + Secret)
+# Clerk Authentication 
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_your_clerk_publishable_key_here
 CLERK_SECRET_KEY=sk_test_your_clerk_secret_key_here
 

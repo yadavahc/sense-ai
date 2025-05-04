@@ -35,7 +35,6 @@ export default async function Header() {
           />
         </Link>
 
-        {/* Action Buttons */}
         <div className="flex items-center space-x-2 md:space-x-4">
           <SignedIn>
             <Link href="/dashboard">
@@ -73,7 +72,7 @@ export default async function Header() {
                     className="flex items-center gap-2"
                   >
                     <PenBox className="h-4 w-4" />
-                    Cover Letter
+                    Cover Letter 
                   </Link>
                 </DropdownMenuItem>
                 <DropdownMenuItem asChild>
